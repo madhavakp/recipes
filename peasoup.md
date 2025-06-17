@@ -7,3 +7,4 @@
 - add ingredients to boiling water
 - add salt
 - add peas
+- add spice
