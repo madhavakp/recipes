@@ -6,3 +6,4 @@
 - chop potatoes and spring onions
 - add ingredients to boiling water
 - add salt
+- add spice
