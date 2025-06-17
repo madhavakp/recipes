@@ -1,3 +1,6 @@
 *.png
 receipts/plots/
+
+# Exceptions
 !final.png
+!receipts/data 
